@@ -28,7 +28,7 @@ licence supplied". A press-kit download is not a path this skill takes. `brands:
 
 Every mark is still its owner's trademark: nominative use only. Name tools the product really works with, never imply
 endorsement. The footer carries "Product names and logos are trademarks of their owners" and the site carries
-`icons-credits.json` (file, set, source with the commit, licence, trademark flag, the brand's site).
+`icons-credits.json` (file, set, source with the commit, licence, trademark flag, the brand's site). Keep the applicable [license texts](../assets/licenses) with copied SVGs and preserve the [asset notices](../assets/THIRD_PARTY_NOTICES.md).
 
 ## Commands
 

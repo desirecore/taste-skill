@@ -18,7 +18,7 @@ every screen, and looks made for this client, not from a template and not like a
 figma.com and x.ai are the bar (in words: `layout-v4.md` section 1).
 
 `<skill>` is this folder. It needs Node 22+ and Chrome, Edge or Chromium (ffmpeg optional). Copy `<skill>/assets` into the project's
-`assets` and start from `assets/starter.html`.
+`assets` and start from `assets/starter.html`. Keep the [asset notices](assets/THIRD_PARTY_NOTICES.md) and the relevant credits and license texts with any copied third-party assets. Use names and marks accurately and obtain suitable rights to the photographs before publishing.
 
 ## House rules
 
